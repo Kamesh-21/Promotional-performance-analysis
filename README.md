@@ -32,13 +32,13 @@ Used **MySQL** for analysis and **Power BI** for visualization, this project pro
 - Product & Category Analysis 
 
 ## Key Insights
-1. Store Insights
+1. Store Insights ,
 Focus on High Revenue-Driving Store Categories :
 - Direct attention to categories that contribute significantly to overall revenue, including Combo1 ,  Grocery , Staples , and Home Appliances.
 Prioritize Cities with Strong Revenue Growth:
 - Focus efforts on cities with the highest growth in incremental revenue, such as Madurai , Chennai , and Bengaluru.
 
-2. Promotion Insights 
+2. Promotion Insights ,
 Maximize Impactful Promotional Strategies:
 - Leverage promotions like ₹500 Cashback and Buy One Get One Free (BOGOF), which have proven to boost both revenue and unit sales.
  Minimize Ineffective Discount Offers:
@@ -46,7 +46,7 @@ Maximize Impactful Promotional Strategies:
 Capitalize on Key Seasonal Campaigns:
 - Focus on maximizing revenue during Diwali and refine promotional efforts during this period for better results compared to Sankranti. 
 
-3. Product and Category Analysis
+3. Product and Category Analysis ,
 Invest in High-Growth Categories:
 - Allocate resources toward categories that show the greatest potential for revenue growth, especially Home Appliances and Combo1.
 Promote Top-Selling Products:
