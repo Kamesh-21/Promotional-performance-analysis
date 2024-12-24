@@ -8,10 +8,10 @@ Used **MySQL** for analysis and **Power BI** for visualization, this project pro
 - **Power BI**: For designing interactive dashboards that visually present insights and recommendations , requested by manager Tony.
 
 ## Dataset 
-1. dim_campaigns : 
-2. dim_products
-3. dim_stores
-4. fact_events
+1. dim_campaigns : contains promotional campaigns related data
+2. dim_products : contains product related data
+3. dim_stores : contains City and zone related data
+4. fact_events : contains product price and selling related data for each campaigns . 
 
 ## Workflow
 1. **Create Database**:  
